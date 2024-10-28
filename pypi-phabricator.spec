@@ -7,7 +7,7 @@
 #
 Name     : pypi-phabricator
 Version  : 0.9.1
-Release  : 15
+Release  : 16
 URL      : https://files.pythonhosted.org/packages/a9/c0/4e3bf742d2e9af6873bdb7a82cd2d376e9f80519c511d871f394d1be0bf6/phabricator-0.9.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a9/c0/4e3bf742d2e9af6873bdb7a82cd2d376e9f80519c511d871f394d1be0bf6/phabricator-0.9.1.tar.gz
 Summary  : Phabricator API Bindings
